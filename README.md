@@ -1,9 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-<title>Hello Strapdown</title>
-
-<xmp theme="united" style="display:none;">
 Richard Le's Page
 -----------------
 
@@ -25,7 +20,4 @@ Richard Le's Page
 * Thai Food
 
 ### [My Github](https://github.com/richardle798)
-</xmp>
 
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
